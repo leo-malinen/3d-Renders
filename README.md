@@ -1,4 +1,4 @@
-# 3D Renders (Still images)
+# 3D Still Renders
 
 ## Overview
 
