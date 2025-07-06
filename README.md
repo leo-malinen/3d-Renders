@@ -7,6 +7,4 @@ These 3D renders, all created and rendered using Blender, are designed as non an
 ## What each image folder has
 Landscapes are what they say they are and are still image renders of scenery or just nature in general, whereas points of interest are more infrastructure and man made objects and such. 
 
-## License
-
-(Pending)
+## Links:
